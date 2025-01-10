@@ -23,8 +23,8 @@ logging.basicConfig(
 )
 
 # Constants
-BASE_PATH = r"C:\Users\KRYP MEDIA\Downloads\rkface\war"  # Directory with employee subdirectories
-CSV_DIRECTORY = r"C:\Users\KRYP MEDIA\Downloads\rkface\Allcsv"  # Directory for CSV files
+BASE_PATH = r" "  # Directory with employee subdirectories
+CSV_DIRECTORY = r" "  # Directory for CSV files
 ENCODINGS_FILE = os.path.join(CSV_DIRECTORY, "encodings.pkl")
 ATTENDANCE_FILE = os.path.join(CSV_DIRECTORY, 'Attendance.csv')
 INTERVAL_ATTENDANCE_FILE = os.path.join(CSV_DIRECTORY, 'IntervalAttendance.csv')
